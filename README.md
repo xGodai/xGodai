@@ -5,7 +5,22 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
+“Godai” – the Japanese concept of the five elements – and how well it maps to how we write and grow as developers:
 
+地 (Chi – Earth)
+The foundations: clean architecture, solid fundamentals, tests. Code that’s stable and dependable.
+
+水 (Sui – Water)
+Adaptability: refactoring, learning new frameworks, reading other people’s code. Flowing around constraints instead of fighting them.
+
+火 (Ka – Fire)
+Energy and passion: shipping features, optimising performance, chasing that “it finally works” moment at 1am.
+
+風 (Fū – Wind)
+Communication: documentation, code reviews, pairing, sharing knowledge with the team so ideas can move freely.
+
+空 (Kū – Void)
+Creativity and possibility: designing new systems, trying side projects, exploring ideas before they’re fully formed.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xGodai) 
